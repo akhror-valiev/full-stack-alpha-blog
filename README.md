@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+#Salt Method in Rials app #
+
+BCrypt::Password.create("password")
+ => "$2a$12$XuBuXQTTKLySB//ybcTzpuGRj1OyJgRKm0jvLaYeoq.Ro8wP1lNBO" 

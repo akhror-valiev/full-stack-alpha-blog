@@ -1,29 +1,17 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h1>Full-Stack Blog App</h1>
+<h4>Set Up Project</h4>
 
-Things you may want to cover:
+- Clone the GitHub repo
+- bundle install
+- Configure your username and password in the database.yml
+- rails db: create
+- rails db: migrate
+- rails s
+- OR
+- rails db: setup
+- rails s
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-#Salt Method in Rials app #
-
-BCrypt::Password.create("password")
- => "$2a$12$XuBuXQTTKLySB//ybcTzpuGRj1OyJgRKm0jvLaYeoq.Ro8wP1lNBO" 
+ ![GitHub Logo](https://github.com/akhror-valiev/full-stack-alpha-blog/blob/main/Screenshot%20from%202024-01-16%2017-22-34.png)
+ ![GitHub Logo](https://github.com/akhror-valiev/full-stack-alpha-blog/blob/main/Screenshot%20from%202024-01-16%2017-22-52.png)
+ ![GitHub Logo](https://github.com/akhror-valiev/full-stack-alpha-blog/blob/main/Screenshot%20from%202024-01-16%2017-23-03.png)
